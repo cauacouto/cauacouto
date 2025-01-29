@@ -1,43 +1,40 @@
+# Oi! Eu sou o Cauã 👋
 
 
-💻 Cauã da Silva Couto
-
-
-🛠️ Sobre Mim <br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas com paixão por desenvolvimento backend e foco em Java.
-🌟 Objetivo: Construir uma carreira solida e com 
-
-🧰 Tecnologias e Ferramentas
-
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" heigth="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" heigth="40"/>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" heigth="40" />
-          
-            
-
-           
-
-          
-
-
-          
+🎓 Estudo Análise e Desenvolvimento de Sistemas.  
 
 
 
+---
+
+## 📊 Linguagens Mais Usadas
+
+![Java](https://img.shields.io/badge/Java-68.97%25-orange)  
+![Spring](https://img.shields.io/badge/Spring-21.77%25-brightgreen)  
+![Python](https://img.shields.io/badge/Python-9.26%25-blue)  
+
+---
+
+## 🚀 Estatísticas do GitHub de Cauã da Silva Couto
+
+⭐ **Total de Stars Recebidas**: 0  
+📌 **Total de Commits**: 3  
+🔄 **Total de PRs**: 0  
+🐞 **Total de Issues**: 0  
+📌 **Contribuições (último ano)**: 0  
 
 
-🚀 Projetos em Destaque <br>
-📌 Meu Projeto Java <br>
-Descrição: uma aplicação de um sistema bancario construído com Java .
 
+---
 
+## Contatos:
 
-📫 Como Me Encontrar
-LinkedIn: https://www.linkedin.com/in/cau%C3%A3-couto-2848712b1/ <br>
-E-mail: cauacouto022@gmail.com
+📧 [GMAIL](mailto:cauacouto022@gmail.com)  
+🔗 [LINKEDIN](https://www.linkedin.com/in/cau%C3%A3-couto-2848712b1/)  
 
+---
 
-
+💻 Sempre aprendendo e evoluindo no mundo da tecnologia!
 
 
 
