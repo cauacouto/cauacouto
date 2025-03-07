@@ -1,7 +1,7 @@
 # Oi! Eu sou o Cauã 👋
 🚀 Sobre mim
 ---
-🎯 Desenvolvedor Full Stack<br>
+🎯 Desenvolvedor backend<br>
 🎓 Estudante de  Análise e Desenvolvimento de Sistemas.  
 
 
