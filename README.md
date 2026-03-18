@@ -9,44 +9,27 @@ Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último per
 ## 🚀 Tecnologias e Ferramentas
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Testes
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-### ☁️ Em Estudo
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=f89820)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=00758f)
+![Maven](https://img.shields.io/badge/Maven-1a1a2e?style=for-the-badge&logo=apache-maven&logoColor=C71A36)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
+![JUnit](https://img.shields.io/badge/JUnit-1a1a2e?style=for-the-badge&logo=junit5&logoColor=25A162)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ---
-
-## 📚 Atualmente estudando
-
-- Testes automatizados com JUnit
-- Microsserviços na AWS
-- Boas práticas de arquitetura backend
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/cau%C3%A3-couto-2848712b1/)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:cauacouto022@gmail.com)
 
 ---
 
 ⭐ *"Evoluir constantemente, aprendendo todos os dias e desenvolvendo soluções que resolvam problemas reais."*
-
-
-
 
 
 
