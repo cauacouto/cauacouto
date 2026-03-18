@@ -1,49 +1,49 @@
-# Oi! Eu sou o Cauã 👋
-🚀 Sobre mim
----
-🎯 Desenvolvedor backend<br>
-🎓 Estudante de  Análise e Desenvolvimento de Sistemas.  
+# Olá, eu sou Cauã 👋
 
+### Desenvolvedor Backend Java
 
-
----
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauacouto&&theme=dark&layout=compact)
-
-<div style="display: inline_block"><br>
-
-💻 Tecnologias e Ferramentas
----
-<img aling="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" wi />
-  <img    aling="center" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-             <img    aling="center" height="49" width="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-             
-   <img aling = "center" heigth = "50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-             
-   <img aling="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-          
-   <img    aling="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-        
-               
-          
-          
-
-</div>
-
-
-
+Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último período de Análise e Desenvolvimento de Sistemas. Atuo há mais de um ano em projetos pessoais e freelancer, desenvolvendo APIs REST e aplicações web. Tenho como objetivo evoluir constantemente, criando soluções que resolvam problemas reais dos usuários.
 
 ---
 
-📬 Contato
----
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauacouto022@gmai.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-couto-2848712b1)
+## 🚀 Tecnologias e Ferramentas
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Testes
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### ☁️ Em Estudo
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-🚀 Sempre aberto a novas oportunidades e colaborações!
 
+## 📚 Atualmente estudando
+
+- Testes automatizados com JUnit
+- Microsserviços na AWS
+- Boas práticas de arquitetura backend
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+⭐ *"Evoluir constantemente, aprendendo todos os dias e desenvolvendo soluções que resolvam problemas reais."*
 
 
 
