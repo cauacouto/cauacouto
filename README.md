@@ -15,7 +15,7 @@ Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último per
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=00758f)
 ![Maven](https://img.shields.io/badge/Maven-1a1a2e?style=for-the-badge&logo=apache-maven&logoColor=C71A36)
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
-![JUnit](https://img.shields.io/badge/JUnit-1a1a2e?style=for-the-badge&logo=junit5&logoColor=25A162)
+![RabbitMq](https://img.shields.io/badge/rabbitmq-1a1a2e?style=for-the-badge&logo=rabbitmq&logoColor=25A162)
 ![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ---
