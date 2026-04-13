@@ -29,7 +29,7 @@ Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último per
 
 ---
 
-⭐ *"Evoluir constantemente, aprendendo todos os dias e desenvolvendo soluções que resolvam problemas reais."*
+
 
 
 
