@@ -1,7 +1,5 @@
 # Olá, eu sou Cauã 👋
-
 ### Desenvolvedor Backend Java
-
 Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último período de Análise e Desenvolvimento de Sistemas. Atuo há mais de um ano em projetos pessoais e freelancer, desenvolvendo APIs REST e aplicações web. Tenho como objetivo evoluir constantemente, criando soluções que resolvam problemas reais dos usuários.
 
 ---
@@ -9,16 +7,17 @@ Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último per
 ## 🚀 Tecnologias e Ferramentas
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=00758f)
-![Maven](https://img.shields.io/badge/Maven-1a1a2e?style=for-the-badge&logo=apache-maven&logoColor=C71A36)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
-![RabbitMq](https://img.shields.io/badge/rabbitmq-1a1a2e?style=for-the-badge&logo=rabbitmq&logoColor=25A162)
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
----
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="35" height="35" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="35" height="35" hspace="8"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35" hspace="8"/>
+</p>
 
 ---
 
@@ -28,9 +27,3 @@ Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último per
 [![Gmail](https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:cauacouto022@gmail.com)
 
 ---
-
-
-
-
-
-
