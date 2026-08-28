@@ -1,6 +1,6 @@
 # Olá, eu sou Cauã 👋
 ### Desenvolvedor Backend Java
-Sou desenvolvedor backend com foco em Java e Spring Boot, cursando o último período de Análise e Desenvolvimento de Sistemas. Atuo há mais de um ano em projetos pessoais e freelancer, desenvolvendo APIs REST e aplicações web. Tenho como objetivo evoluir constantemente, criando soluções que resolvam problemas reais dos usuários.
+Sou desenvolvedor backend com foco em Java e Spring Boot, formado em Análise e Desenvolvimento de Sistemas. Atuo há mais de um ano em projetos pessoais e freelancer, desenvolvendo APIs REST e aplicações web. Tenho como objetivo evoluir constantemente, criando soluções que resolvam problemas reais dos usuários.
 
 ---
 
